@@ -35,7 +35,7 @@ int ___(int* E, int* C)
 int main(void)
 {
     int* arr = NULL;
-	int  _0_ , _l_ ;
+    int  _0_ , _l_ ;
     
     puts("enter array len & elems:");
 	_l_ = i(&arr);
