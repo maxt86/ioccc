@@ -28,4 +28,5 @@ The arguments correspond to pointers to the array beginning and end.
 
 # Inspiration
 [This](https://www.ioccc.org/) obfuscated code competition inspired me to write this function.
+
 Made with <3
