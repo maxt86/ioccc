@@ -6,7 +6,7 @@ The function is:
 /** (c) max tuchin ***/
 int ___(int* E, int* C)
 {
-	/* 'C is my weapon of choice when I fight', ytcracker */
+    /* 'C is my weapon of choice when I fight', ytcracker */
     
     int    R   ,_;    /*v*/
     
